@@ -1,0 +1,58 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 400px;
+  height: 300px; 
+}
+#emotion_name, #emotion_name2
+{
+  color: black;
+}
+.resultname
+{
+  font-size: 40px;
+  font-family: 'Birthstone', cursive;
+}
+.resultpic
+{
+  font-size:48px;
+}
+
+.heading
+{
+font-size: 19px;
+border-radius: 10px;
+letter-spacing: 10px;
+width:50%;
+padding-bottom: 10px;
+}
+
+span{
+  font-size: 40px;
+  
+}
+
+label{
+  font-size: 15px;
+  color:cadetblue;
+  padding : 7px;
+  border-radius: 10px;
+  background-color: azure;
+}
+
+button{
+  width: 40%;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+
